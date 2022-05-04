@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @civilH
 - 👀 I’m interested in Web Developing, Software Engineering, Robot Enthusiast:D and so much more
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on myjourney as leaner in programming world
+- 💞️ I’m looking to collaborate on my journey as learner in programming world
 - 📫 How to reach me, you can hit me up on social media
 
 <!---

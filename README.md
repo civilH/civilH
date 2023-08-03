@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @civilH
-- 👀 I’m interested in Web Developing, Software Engineering, Robot Enthusiast:D and so much more
-- 🌱 I’m currently learning Python(Selenium, Django, OpenCV), and working with Web Project(PHP, Bootstrap, MySQL, Apache), also I was Learning Java and Pascal.
-- 💞️ I’m looking to collaborate on my journey as learner in programming world
-- 📫 How to reach me, you can hit me up on 
-
 # 💫 About Me:
 - 👋 Hi, I’m @civilH, <br>- 👀 I’m interested in Web Developing, Software Engineering, Robot Enthusiast:D and so much more.<br>- 🌱 I’m currently learning Python(Selenium, Django, OpenCV), and working with Web Project(PHP, Bootstrap, MySQL, Apache), <br>also I was Learning Java and Pascal. <br>- 💞️ I’m looking to collaborate on my journey as learner in programming world <br>- 📫 How to reach me, you can hit me up on https://www.linkedin.com/in/enochelijah/ 
 

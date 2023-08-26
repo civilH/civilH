@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @civilH, <br>- 👀 I’m interested in Web Developing, Software Engineering, Robot Enthusiast:D and so much more.<br>- 🌱 I’m currently learning Python(Selenium, Django, OpenCV), and working with Web Project(PHP, Bootstrap, MySQL, Apache), <br>also I was Learning Java and Pascal. <br>- 💞️ I’m looking to collaborate on my journey as learner in programming world <br>- 📫 How to reach me, you can hit me up on https://www.linkedin.com/in/enochelijah/ 
+- 👋 Hi, I’m @civilH, <br>- 👀 I’m interested in Web Developing, Software Engineering, Robot Enthusiast:D and so much more.<br>- 🌱 I’m currently learning Python(Selenium, Django, OpenCV), and working with Web Project(PHP, Bootstrap, MySQL, Apache), <br>also I was Learning Java and Pascal. <br>- 💞️ I’m looking to collaborate on my journey as learner in programming world <br>- 📫 How to reach me, you can hit me up on **see on my profile info**
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=civilH&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
